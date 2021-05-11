@@ -1,10 +1,10 @@
 Fleet Carrier Generic Autopilot
-by Cmdr GranolaGuy
+by Cmdr REDACTED
 
 Credit:
-The Booze Cruise Expedition made the profile from which this profile is based on.
-Cmdr Pielander - Creator
-Cmdr Netchild - Updater
+The REDACTED Expedition made the profile from which this profile is based on.
+Cmdr REDACTED - Creator
+Cmdr REDACTED - Updater
 
 
 What is this?
